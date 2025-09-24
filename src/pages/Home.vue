@@ -6,6 +6,11 @@ export default {
     components: {
         Button, Footer
     },
+    methods: {
+    irParaContato() {
+      this.$router.push('/Contato')
+    }
+  }
 
 };
 </script>
@@ -23,7 +28,7 @@ export default {
                Olá pessoa! Quer um site elegante como este, que abra portas para o seu negócio e torne sua marca mais atrativa e profissional para seus clientes? É só clicar no botão ‘Entrar em Contato’ e falar comigo.
             </p>
 
-            <Button texto="Entrar em contato" personalizar="botao-cadastro" />
+            <Button texto="Entrar em contato" personalizar="botao-cadastro" @click="irParaContato"/>
 
         </div>
     

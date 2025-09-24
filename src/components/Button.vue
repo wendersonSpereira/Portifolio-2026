@@ -2,10 +2,11 @@
 export default {
   props: {
     texto: {String},
-    personalizar: {String}
-  }, emits: ['personalizar']
+    personalizar: {String},
+  }, emits: ['personalizar'],
+ 
 };
 </script>
 <template>
-    <button :class="personalizar" >{{texto}}</button>
+    <button :class="personalizar">{{texto}}</button>
 </template>

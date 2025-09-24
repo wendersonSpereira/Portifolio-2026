@@ -8,8 +8,8 @@
             <div class="icones">
                 <p class="titulo-footer">Redes sociais:</p>
                 <ul class="lista-icones">
-                    <li class="links" > <a class="icon" href=""><img class="img" src="../assets/icons/instagram.svg" alt=""></a> </li>
-                    <li class="links"> <a class="icon" href=""> <img class="img" src="../assets/icons/linkedin.svg" alt=""> </a>  </li>
+                    <li class="links" > <a class="icon" href="https://www.instagram.com/wendersonspereira"><img class="img" src="../assets/icons/instagram.svg" alt=""></a> </li>
+                    <li class="links"> <a class="icon" href="https://www.linkedin.com/in/wenderson-pereira-04990a210"> <img class="img" src="../assets/icons/linkedin.svg" alt=""> </a>  </li>
                     <li class="links"> <a class="icon" href=""> <img class="img" src="../assets/icons/github.svg" alt=""> </a>  </li>
                 </ul>
                 <p class="texto-copy">Wenderson © 2025. Todos os direitos reservados.</p>
